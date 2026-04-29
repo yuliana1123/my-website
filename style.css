@@ -23,6 +23,12 @@ nav {
     color: #ff9bb3;
 }
 
+.logo img {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+
 .links a {
     margin-left: 30px;
     text-decoration: none;
