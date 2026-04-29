@@ -35,8 +35,13 @@ nav {
     color: #ff9bb3;
 }
 
+.hero {
+    justify-content: center;
+    text-align: center;
+}
+
 .hero h1{
-    font-size: 60px;
+    font-size: 48px;
     font-weight: 600;
     line-height: 1.2;
     text-align: center;
